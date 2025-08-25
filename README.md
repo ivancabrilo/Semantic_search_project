@@ -1,0 +1,1 @@
+I built a youtube search tool using cosine similarity for a Kurtzgesagt youtube channel. The results are based on the query a user inputs, in a way where the query is compared with a combination of transcripts and titles of each video
