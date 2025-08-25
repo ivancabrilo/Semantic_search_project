@@ -41,7 +41,9 @@ I built a **YouTube semantic search tool** using **cosine similarity** (trained 
 
 ## 🚀 Getting Started
 
+- **Check out both Model_development and Model_deployment files to get further insight into data exctraction and model training**
+
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ivancabrilo/Semantic_search_project-.git
-cd Semantic_search_project-
+git clone https://github.com/ivancabrilo/Semantic_search_project.git
+cd Semantic_search_project
