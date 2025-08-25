@@ -1,0 +1,5 @@
+fastapi[standard]==0.115.14
+polars==1.31.0
+sentence-transformers==4.1.0
+scikit-learn==1.6.1
+numpy==2.2.5
